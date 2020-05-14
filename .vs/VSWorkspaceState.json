@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\client-app"
+    "\\client-app",
+    "\\client-app\\src",
+    "\\client-app\\src\\app",
+    "\\client-app\\src\\app\\layout",
+    "\\client-app\\src\\features",
+    "\\client-app\\src\\features\\nav"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\client-app\\src\\features\\nav\\nav.tsx",
   "PreviewInSolutionExplorer": false
 }
