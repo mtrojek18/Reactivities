@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Persistance
+namespace Persistance 
 {
     public class Seed
     {
